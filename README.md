@@ -47,7 +47,7 @@ SimpleDAO is a decentralized autonomous organization (DAO) built on the Scroll b
 
 This contract has been deployed on the Scroll Sepolia testnet. The contract address is:
 
-**[Your Contract Address]**
+`0x25781e83572aC6fD4068f0d3bacF805d32119630`
 
 ## Usage
 
